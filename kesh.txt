@@ -1,0 +1,4 @@
+name	height	weight	bmi
+keshav	1.67	56	20.07960127648894
+ironman	1.5	100	44.44444444444444
+spiderman	2.0	60	15.0
